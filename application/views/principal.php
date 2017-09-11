@@ -230,9 +230,9 @@
                     </header>
                     <ul class="contact">
 			<li><a href="#" class="fa fa-twitter"><span>Twitter</span></a></li>
-			<li class="active"><a href="https://www.facebook.com/ecursos.empresas/" class="fa fa-facebook"><span>Facebook</span></a></li>
-			<li><a href="#" class="fa fa-dribbble"><span>Pinterest</span></a></li>
-			<li><a href="#" class="fa fa-tumblr"><span>Google+</span></a></li>
+			<li class="active"><a href="https://www.facebook.com/ecursos.empresas/" target="_blank" class="fa fa-facebook"><span>Facebook</span></a></li>
+			<li><a href="https://www.linkedin.com/in/juan-ignacio-paz-498aaa32/" target="_blank" class="fa fa-linkedin"><span>Linkedin</span></a></li>
+			<li><a href="#" class="fa fa-google-plus"><span>Google+</span></a></li>
                     </ul>
                     
                     <!-- begin olark code -->
