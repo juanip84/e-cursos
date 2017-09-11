@@ -10,8 +10,8 @@ sin tener que descargar e instalar localmente.
 ——————————————————————————————————————————————————————
 Instalación BD inicial
 ——————————————————————————————————————————————————————
-Ejecutar el script en la carpeta BD en mysql, el mismo creara la BD, 
-un usuario de BD y las tablas para la empresa “demo”.
+Ejecutar el script bd_inicial.sql en la carpeta BD en mysql, 
+el mismo creara la BD, un usuario de BD y las tablas para la empresa “demo”.
 
 Para loguearse en el sistema (localmente o en el dominio instalado) y probarlo 
 debe ingresar con los  siguientes datos:
