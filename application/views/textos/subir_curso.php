@@ -1,0 +1,9 @@
+<h2 class="title text-center">Subir un curso</h2>
+<p class="text2"> Para subir un curso debes tener un usuario, y seguir los siguientes pasos:
+<p class="text2">1. Logueate a la plataforma con tu usuario.
+<p class="text2">2. Ingresa al menu &quot;Mis cursos&quot; y presiona el boton &quot;Agregar&quot;.
+<p class="text2">3. Completa todos los datos del curso, selecciona el video, imagen y documento. *
+<p class="text2">4. Presiona el boton guardar y listo!
+<p class="text2">
+<p class="text2">* Solo se podrán subir videos con formato "mp4", "webm" u "ogg", imagenes con formato "jpeg" o "png" y documentos "pdf.<br />
+** Si el video que queres subir no es mp4, podes convertirlo. <a href="<?php echo site_url('/application/convertir_video/'); ?>">Entra aca para ver una forma de hacerlo.</a>

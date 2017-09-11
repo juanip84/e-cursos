@@ -1,0 +1,8 @@
+fa-cloud
+fa-hand-o-left
+fa-comments
+fa-hand-o-up
+fa-file-text-o
+fa-subscript
+fa-code
+fa-crosshairs
