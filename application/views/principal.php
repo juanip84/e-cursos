@@ -261,7 +261,7 @@
 	<!-- Copyright -->
 	<div id="copyright">
             <div class="container">
-		Diseño: <a href="http://www.e-cursos.com.ar/empresas-dev">E-Cursos</a> Template: <a href="http://templated.co">TEMPLATED</a>
+		Diseño: <a href="http://www.e-cursos.com.ar/">E-Cursos</a> Template: <a href="http://templated.co">TEMPLATED</a>
             </div>
 	</div>
     </body>
