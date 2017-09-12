@@ -354,13 +354,13 @@ $(document).ready(function(){
 			'questions' : questions
 		};
 		$.ajax({
-		    url: "http://localhost/empresas-dev/index.php/application/grabar_examen",
+		    url: "http://localhost/e-cursos/index.php/application/grabar_examen",
 		    type: 'post',
 			dataType:"json",
 			data: map,
 			success: function(resp){
 				if(resp == 1){
-					window.location.href = "http://localhost/empresas-dev/index.php/application/mis_cursos/0";	//TODO arreglar relativo
+					window.location.href = "http://localhost/e-cursos/index.php/application/mis_cursos/0";	//TODO arreglar relativo
 				}else{
 					alert(resp);
 				}
@@ -377,7 +377,7 @@ $(document).ready(function(){
 			'id' : $(this).attr('idcurso')
 		};
 		$.ajax({
-		    url: "http://localhost/empresas-dev/index.php/application/get_asig_form",		//TODO arreglar relativo
+		    url: "http://localhost/e-cursos/index.php/application/get_asig_form",		//TODO arreglar relativo
 			type: 'post',
 			dataType:"json",
 			data: map,
@@ -413,7 +413,7 @@ $(document).ready(function(){
 			'removes' : removes
 		};
 		$.ajax({
-		    url: "http://localhost/empresas-dev/index.php/application/edit_asig",
+		    url: "http://localhost/e-cursos/index.php/application/edit_asig",
 		    type: 'post',
 			dataType:"json",
 			data: map,
@@ -460,13 +460,13 @@ $(document).ready(function(){
 			'questions' : questions
 		};
 		$.ajax({
-		    url: "http://localhost/empresas-dev/index.php/application/grabar_examen_usuario",
+		    url: "http://localhost/e-cursos/index.php/application/grabar_examen_usuario",
 		    type: 'post',
 			dataType:"json",
 			data: map,
 			success: function(resp){
 				if(resp == 1){
-					window.location.href = "http://localhost/empresas-dev/index.php/application/cursos_asignados/0";	//TODO arreglar relativo
+					window.location.href = "http://localhost/e-cursos/index.php/application/cursos_asignados/0";	//TODO arreglar relativo
 				}else{
 					alert(resp);
 				}

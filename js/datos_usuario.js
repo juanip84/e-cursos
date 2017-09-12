@@ -15,7 +15,7 @@ $(document).ready(function(){
 			'clave' : $('#clave').val()
 		};
 		$.ajax({
-		    url: "http://localhost/empresas-dev/index.php/application/cambiar_clave",
+		    url: "http://localhost/e-cursos/index.php/application/cambiar_clave",
 		    type: 'post',
 			dataType:"json",
 			data: map,
@@ -44,7 +44,7 @@ $(document).ready(function(){
 			'mail' : $('#mail').val()
 		};
 		$.ajax({
-		    url: "http://localhost/empresas-dev/index.php/application/cambiar_mail",
+		    url: "http://localhost/e-cursos/index.php/application/cambiar_mail",
 		    type: 'post',
 			dataType:"json",
 			data: map,

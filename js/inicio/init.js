@@ -5,7 +5,7 @@
 */
 
 skel.init({
-	prefix: 'http://www.e-cursos.com.ar/empresas-dev/css/inicio/style',
+	prefix: 'http://www.e-cursos.com.ar/e-cursos/css/inicio/style',
 	resetCSS: true,
 	boxModel: 'border',
 	grid: {
