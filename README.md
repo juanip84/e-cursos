@@ -41,8 +41,8 @@ Reemplazar en:
 - main.js
 - init.js
 
-En todas las url donde figure localhost/empresas-dev/ por el dominio donde esta instalado.
-Ej en el caso del dominio de ecursos, se reemplazaría localhost/empresas-dev/ por www.e-cursos.com.ar/
+En todas las url donde figure localhost/e-cursos/ por el dominio donde esta instalado.
+Ej en el caso del dominio de ecursos, se reemplazaría localhost/e-cursos/ por www.e-cursos.com.ar/
 
 ——————————————————————————————————————————————————————
 Configuración BD y dominio (si corresponde)
